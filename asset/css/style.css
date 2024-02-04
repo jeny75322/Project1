@@ -1,0 +1,26 @@
+body{margin-top: 20px; background-color: black;}
+h5{margin: 30px 0px 6px;
+      color: antiquewhite;}
+      button{margin-left: 66px;}
+
+.card{margin-top: 30px; }
+form{color:antiquewhite;}
+
+.column {
+    margin-top: 50px;
+    float: left;
+    width: 33.33%;
+    padding: 1px;
+    margin-top: 10px;
+  }
+  .map{margin:30px 280px 60px}
+ h4{margin-top: 30px;}
+ .vdo{padding:20px;}
+ .accordion{margin-left:2px;
+margin-top:30px; 
+margin-right: 30px;}
+
+
+.icon{margin:10px 500px 10px; padding: 20px 50px 20px;display:  flex; align-items: center;}
+
+
